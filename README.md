@@ -38,5 +38,5 @@
 
 ## 联系方式
 如有任何问题或建议，欢迎通过以下方式联系我：
-- **B站私信**：[径向合力提供向心力](https://space.bilibili.com/333.337.0.0)
+- **B站私信**：[径向合力提供向心力](https://message.bilibili.com/?spm_id_from=333.1387.0.0#/whisper/mid1149548154)
 
