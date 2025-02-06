@@ -1,7 +1,42 @@
-# 2024-Electrical-Competition-H
-使用stm32c8t6实现2024年电赛H题（B站：径向合力提供向心力）
+# 2024 年电赛 H 题 - STM32C8T6
 
-https://www.bilibili.com/video/BV1GL17YdE2c/?spm_id_from=333.1387.upload.video_card.click&vd_source=bbe3fc9e1c5ab53fe823c77c488ee8ca
+本项目使用 STM32C8T6 微控制器实现 2024 年电子设计竞赛 H 题的解决方案。项目代码和相关资源已开源，供大家学习和参考。
 
-含手写笔记  
-将代码压缩包解压后导入为keil工程即可使用（有用的话请点一个star，谢谢）
+## 项目结构
+
+### 📂 **主分支：** `main`
+包含最新的代码和文档更新。
+
+### 📄 **文件列表**
+**README.md**：项目的自述文件，包含项目介绍、使用方法、演示视频链接等信息。  
+**keil代码(20241020).zip**：Keil 工程代码文件，解压后可直接导入 Keil uVision 使用。  
+**H题硬件资料**：与电赛 H 题相关的硬件设计文件、原理图或其他硬件资料。
+
+## 项目演示视频
+
+您可以在 Bilibili 上观看项目的演示视频：  
+[![Bilibili 视频](https://img.shields.io/badge/Bilibili-观看视频-blue)](https://www.bilibili.com/video/BV1GL17YdE2c/?spm_id_from=333.1387.upload.video_card_click&vd_source=bbe3fc9e1c5ab53fe823c77c488ee8ca)
+
+## 使用方法
+
+### 1. **下载与解压代码**
+下载 **keil代码(20241020).zip** 并解压。
+使用 **Keil uVision** 打开工程文件。
+### 2. **编译与下载代码**
+在 Keil 中编译代码并下载到 **STM32C8T6** 微控制器。
+### 3. **运行程序**
+将MCU插入主板后运行程序并观察，进行调参。
+
+## 硬件资料
+**H题硬件资料**：包含与电赛 H 题相关的硬件设计文件，供参考和使用，帮助完成硬件搭建。
+
+## 致谢
+如果本项目对您有帮助，请点一个 ⭐️ 支持一下，谢谢！
+
+### 视频参考
+观看 Bilibili 上的演示视频，了解项目运行效果和实现细节。
+
+## 联系方式
+如有任何问题或建议，欢迎通过以下方式联系我：
+- **B站私信**：[径向合力提供向心力](https://space.bilibili.com/your-bilibili-id)
+
